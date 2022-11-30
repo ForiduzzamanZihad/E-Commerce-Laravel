@@ -27,11 +27,7 @@ This is a e-commerce platform I made mostly using Laravel ^8.3
 
 ## Install
 
-Clone repo
 
-```
-git clone https://github.com/Md-shefat-masum/Laravel-Ecommerce.git
-```
 
 Install Composer
 
@@ -82,13 +78,3 @@ php artisan key:generate
 ```
 
 
-## License
-
-> Copyright (C) 2021 HungryCoders.  
-**[⬆ back to top](#laravel-ecommerce-platform)**
-
-[Features]:#features
-[Requirements]:#requirements
-[Install]:#install
-[How to setting]:#how-to-setting
-[License]:#license
